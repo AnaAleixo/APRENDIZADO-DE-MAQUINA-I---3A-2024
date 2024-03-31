@@ -1,4 +1,4 @@
-# APRENDIZADO-DE-MAQUINA-I---3A-2024
+# APRENDIZADO-DE-MAQUINA-I---3A-2024 - Projeto de Análise Exploratória de Dados
 ![Captura de tela 2024-02-18 140936](https://github.com/AnaAleixo/PROJETO-APLICADO-II--Grupo-Cassandra-s/assets/116022964/2f3738a4-3e0e-4d69-8c5e-169993fcdd35)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
@@ -9,11 +9,18 @@
 
 # APRENDIZADO DE MÁQUINA I--Grupo-Cassandra's 🚀 
  APRENDIZADO DE MÁQUINA I- CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE 
+#Produção de Soja no Brasil x Consumo.
+
+Alunas:
+Ana Cláudia Lima Aleixo
+Maressa Bonassoli
+Ana Chung ti Kam
+Iasmin Silva de Melo
 
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Aprendizado de Máquina I, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A.
 > O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, crescimento de podução da soja no Brasil x o Consumo o consumo de soja.
 
-# Introdução
+# Problema
 A soja é uma cultura de extrema importância na agricultura brasileira, desempenhando um papel fundamental na economia do país. Ao longo das últimas décadas, o Brasil se tornou um dos principais produtores e exportadores mundiais de soja, impulsionado pelo desenvolvimento de tecnologias agrícolas avançadas e pela expansão do cultivo para diversas regiões do país. A soja tem sido uma fonte significativa de renda para muitos agricultores e contribui para o crescimento econômico do Brasil.(TONON, 2021).
 
 O cultivo de soja no Brasil teve início no século XX, com os primeiros experimentos e a distribuição de sementes para produtores. A presença da imigração japonesa no país também contribuiu para a disseminação da cultura da soja. Ao longo do tempo, a soja se consolidou como a principal cultura agrícola do Brasil, com avanços tecnológicos que aumentaram significativamente a produtividade.
@@ -33,7 +40,7 @@ Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado p
 Este projeto consiste na criação e implementação de modelos de aprendizado supervisionado utilizando regressão linear.  
 Os modelos serão desenvolvidos em um notebook utilizando Python, com foco em analisar a tendencia de produção x consumo da soja no Brasil.
 
-## Requisitos de Dados
+##Descrição e Fonte dos Dados
 Os dados utilizados neste projeto são originais, do Ministério da Agricultura, obtidos nas bases públicas. 
 TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias
 /producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024.
