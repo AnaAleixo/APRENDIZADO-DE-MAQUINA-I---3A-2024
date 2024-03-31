@@ -8,17 +8,17 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 # APRENDIZADO DE MÁQUINA I--Grupo-Cassandra's 🚀 
- APRENDIZADO DE MÁQUINA I- CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE 
-#Produção de Soja no Brasil x Consumo.
+ APRENDIZADO DE MÁQUINA I- CURSO TECNOLOGIA EM CIÊNCIA DE DADOS - ANO 2024 - 1º SEMESTRE 
 
-Alunas:
-Ana Cláudia Lima Aleixo
-Maressa Bonassoli
-Ana Chung ti Kam
-Iasmin Silva de Melo
-
+# Produção de Soja x Consumo (no Brasil).
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Aprendizado de Máquina I, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A.
 > O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, crescimento de podução da soja no Brasil x o Consumo o consumo de soja.
+> 
+# Alunas:
+- Ana Cláudia Lima Aleixo
+- Maressa Bonassoli
+- Ana Chung ti Kam
+- Iasmin Silva de Melo
 
 # Problema
 A soja é uma cultura de extrema importância na agricultura brasileira, desempenhando um papel fundamental na economia do país. Ao longo das últimas décadas, o Brasil se tornou um dos principais produtores e exportadores mundiais de soja, impulsionado pelo desenvolvimento de tecnologias agrícolas avançadas e pela expansão do cultivo para diversas regiões do país. A soja tem sido uma fonte significativa de renda para muitos agricultores e contribui para o crescimento econômico do Brasil.(TONON, 2021).
@@ -42,7 +42,7 @@ Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado p
 Este projeto consiste na criação e implementação de modelos de aprendizado supervisionado utilizando regressão linear.  
 Os modelos serão desenvolvidos em um notebook utilizando Python, com foco em analisar a tendencia de produção x consumo da soja no Brasil.
 
-##Descrição e Fonte dos Dados
+## Descrição e Fonte dos Dados
 Os dados utilizados neste projeto são originais, do Ministério da Agricultura, obtidos nas bases públicas. 
 TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias
 /producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024.
