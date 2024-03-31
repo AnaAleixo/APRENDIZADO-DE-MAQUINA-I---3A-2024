@@ -7,23 +7,36 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-# PROJETO-APLICADO-II--Grupo-Cassandra's 🚀 
- PROJETO APLICADO II - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE - TURMA 03A
+# APRENDIZADO DE MÁQUINA I--Grupo-Cassandra's 🚀 
+ APRENDIZADO DE MÁQUINA I- CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE 
 
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Aprendizado de Máquina I, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A.
-> O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, a análise e prevenção da violência contra a mulher, com recorte no estado de Minas Gerais.
+> O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, crescimento de podução da soja no Brasil x o Consumo o consumo de soja.
+
+# Introdução
+A soja é uma cultura de extrema importância na agricultura brasileira, desempenhando um papel fundamental na economia do país. Ao longo das últimas décadas, o Brasil se tornou um dos principais produtores e exportadores mundiais de soja, impulsionado pelo desenvolvimento de tecnologias agrícolas avançadas e pela expansão do cultivo para diversas regiões do país. A soja tem sido uma fonte significativa de renda para muitos agricultores e contribui para o crescimento econômico do Brasil.(TONON, 2021).
+
+O cultivo de soja no Brasil teve início no século XX, com os primeiros experimentos e a distribuição de sementes para produtores. A presença da imigração japonesa no país também contribuiu para a disseminação da cultura da soja. Ao longo do tempo, a soja se consolidou como a principal cultura agrícola do Brasil, com avanços tecnológicos que aumentaram significativamente a produtividade.
+
+Atualmente, a soja é cultivada em todo o país, adaptando-se a diferentes condições climáticas e utilizando práticas sustentáveis, como o sistema de plantio direto. A soja não apenas impulsiona a economia do Brasil (ANDRADE NETO; RAIHER, 2024), mas também desempenha um papel importante na cadeia alimentar.
+
+A análise dos dados relacionados à produção, consumo e comércio de soja fornece informações valiosas para pesquisadores e profissionais da área. O estudo da soja como tema em ciência de dados permite entender melhor os padrões de produção, identificar oportunidades de otimização e prever tendências futuras. A soja oferece um campo fértil para a aplicação de técnicas de ciência de dados, contribuindo para o desenvolvimento de soluções inovadoras e sustentáveis na agricultura.([s.d.])
+
+# Bibliografia
+
+https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Disponível em: https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Acesso em: 31 mar. 2024. TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias/producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024. TONON, C. Qual a importância da soja para a agricultura brasileira? Disponível em: https://www.stoller.com.br/blog/importancia-da-soja-para-a-agricultura-brasileira/. Acesso em: 31 mar. 2024.
 
 ## Objetivo
-
-Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado por regressão linear, para analisar a tendência de crescimento de podução da Soja no Brasil x o Consumo o consumo de soja com base nos dados de produção.
+Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado por regressão linear, para analisar a tendência de crescimento de podução da soja no Brasil x o Consumo o consumo de soja com base nos dados de produção.
  
-##  Objetivos e Metas
-  # Descrição do Projeto
-Este projeto consiste na criação e implementação de modelos de aprendizado supervisionado utilizando dados do GOV. BR. 
+##  Descrição do Projeto
+Este projeto consiste na criação e implementação de modelos de aprendizado supervisionado utilizando regressão linear.  
 Os modelos serão desenvolvidos em um notebook utilizando Python, com foco em analisar a tendencia de produção x consumo da soja no Brasil.
 
 ## Requisitos de Dados
 Os dados utilizados neste projeto são originais, do Ministério da Agricultura, obtidos nas bases públicas. 
+TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias
+/producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024.
 
 ## Escolha e Preparação dos Dados
 Os dados foram escolhidos, tratados e modelados usando as bibliotecas Python. 
