@@ -54,6 +54,9 @@ Os dados foram escolhidos, tratados e modelados usando as bibliotecas Python.
  Para acompanhar essa etapa das análises siga para o Notebook no seguinte endereço: 
  https://colab.research.google.com/drive/1qy6nraO0qnla9KiBpNkvmcXMxp5xdsvP?usp=sharing
 
+ ## Vídeo do Projeto
+ https://youtu.be/oCWybE85V6o
+
 ## Conclusão
 O projeto requer mais aprofundamento nos dados históricos para um melhor resultado, contudo após análise da base de dados fornecidos até 2032/33, observa-se um aumento geral no consumo e na produção de soja ao longo do tempo. 
 Se as tendências atuais continuarem, é possível que esse crescimento se mantenha no futuro. Mas, é importante ressaltar que muitos fatores podem influenciar o consumo e a produção, tais como: Mudanças nas políticas governamentais, 
