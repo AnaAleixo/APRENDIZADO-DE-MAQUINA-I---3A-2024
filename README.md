@@ -31,10 +31,12 @@ A análise dos dados relacionados à produção, consumo e comércio de soja for
 
 # Bibliografia
 
-https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Disponível em: https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Acesso em: 31 mar. 2024. TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias/producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024. TONON, C. Qual a importância da soja para a agricultura brasileira? Disponível em: https://www.stoller.com.br/blog/importancia-da-soja-para-a-agricultura-brasileira/. Acesso em: 31 mar. 2024.
+https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Disponível em: https://www.embrapa.br/busca-de-noticias/-/noticia/17954081/soja-e-uma-das-alternativas-contra-a-fome-no-mundo. Acesso em: 31 mar. 2024. 
+TabelasGerais20232033.xlsx — Ministério da Agricultura e Pecuária. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/noticias/producao-de-graos-brasileira-devera-chegar-a-390-milhoes-de-toneladas-nos-proximos-dez-anos/TabelasGerais20232033.xlsx/view. Acesso em: 31 mar. 2024. 
+TONON, C. Qual a importância da soja para a agricultura brasileira? Disponível em: https://www.stoller.com.br/blog/importancia-da-soja-para-a-agricultura-brasileira/. Acesso em: 31 mar. 2024.
 
 ## Objetivo
-Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado por regressão linear, para analisar a tendência de crescimento de podução da soja no Brasil x o Consumo o consumo de soja com base nos dados de produção.
+Neste trabalho, iremos desenvolver uma solução de aprendizado supervisionado por regressão linear, para analisar a tendência de crescimento de podução da soja no Brasil x Consumo.
  
 ##  Descrição do Projeto
 Este projeto consiste na criação e implementação de modelos de aprendizado supervisionado utilizando regressão linear.  
